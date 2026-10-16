@@ -1,0 +1,12 @@
+{
+  "name": "litado-skills",
+  "owner": { "name": "LITADO" },
+  "description": "Bộ skill tiếng Việt: ảnh quảng cáo Facebook và nuôi kênh fanpage (hồ sơ, lịch, viết bài, ảnh, video, đăng tự động).",
+  "plugins": [
+    {
+      "name": "nuoi-kenh",
+      "source": "./",
+      "description": "7 skill: tao-anh-quang-cao, lap-ho-so-thuong-hieu, len-lich-content, viet-bai-hang-loat, tao-anh-bai-page, video-minh-hoa-doc, dang-bai-tu-dong."
+    }
+  ]
+}
